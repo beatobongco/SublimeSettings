@@ -1,3 +1,6 @@
+# Sublime 3 Settings
+
+```json
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
@@ -21,3 +24,4 @@
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_modified_tabs": true,
 }
+```
